@@ -1,35 +1,25 @@
-# vue-folder
+# Challenge
+Coding challenge on fronted
 
-This template should help get you started developing with Vue 3 in Vite.
+# Installation
+git clone https://github.com/Emmanuel687/APA.git
 
-## Recommended IDE Setup
+cd APA
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Install dependencies:
 
-## Customize configuration
+Make sure you have node and npm installed, then run:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+The app will be running on http://localhost:3000.
 
-```sh
-npm run build
-```
+# Features
+Task creation and editing
 
-### Lint with [ESLint](https://eslint.org/)
+Categorization of tasks
 
-```sh
-npm run lint
-```
+Tailwind CSS Used for responsive design
+
