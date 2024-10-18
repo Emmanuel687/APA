@@ -17,9 +17,7 @@ npm run dev
 The app will be running on http://localhost:3000.
 
 # Features
-Task creation and editing
-
-Categorization of tasks
+Categorize Categories
 
 Tailwind CSS Used for responsive design
 
