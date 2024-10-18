@@ -1,6 +1,5 @@
 <script setup>
 // Imports Start
-import { watch } from 'vue';
 import { onMounted, ref } from 'vue';
 // Imports End
 
@@ -110,7 +109,6 @@ onMounted(() => {
 <style scoped>
 .overflow-auto {
   max-height: 150px;
-  /* Adjust this value as needed */
   scrollbar-width: thin;
   scrollbar-color: #718096 #EDF2F7;
 }
