@@ -1,23 +1,58 @@
-# Challenge
-Coding challenge on fronted
 
-# Installation
-git clone https://github.com/Emmanuel687/APA.git
+## Overview
+This project is a frontend coding challenge that creates an interactive page. It allows users to browse and search for Chuck Norris jokes by categories, demonstrating skills in API integration, responsive design, and modern web development practices.
 
-cd APA
+## Features
+- Browse Chuck Norris jokes by categories
 
-Install dependencies:
+- Responsive design using Tailwind CSS
 
-Make sure you have node and npm installed, then run:
+- Dynamic fetching of jokes from the Chuck Norris API
 
-npm install
+- Clean and intuitive user interface
 
-npm run dev
 
-The app will be running on http://localhost:3000.
+## Technologies Used
+- Vue.js 3
 
-# Features
-Categorize Categories
+- Tailwind CSS
 
-Tailwind CSS Used for responsive design
+- Fetch for API requests
+
+- Vite as build tool
+
+## Installation
+
+1. Clone the repository:
+ 
+ git clone https://github.com/Emmanuel687/APA.git
+
+2. Navigate to the project directory:
+
+  cd  APA
+
+3. Install dependencies:
+
+  npm install
+
+4. Run the development server:
+
+  npm run dev
+
+
+The application will be available at `http://localhost:3000` (or another port if 3000 is occupied).
+
+## Usage
+- Click on a category to fetch and display jokes related to that category.
+
+- Enjoy the responsive layout that adapts to different screen sizes.
+
+## API Reference
+
+This project uses the [Chuck Norris IO API](https://api.chucknorris.io/).
+
+## License
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+
 
