@@ -1,5 +1,5 @@
-
 ## Overview
+
 This project is a frontend coding challenge that creates an interactive page. It allows users to browse and search for Chuck Norris jokes by categories, demonstrating skills in API integration, responsive design, and modern web development practices.
 
 ## Features
@@ -41,6 +41,13 @@ This project is a frontend coding challenge that creates an interactive page. It
 
 
 The application will be available at `http://localhost:3000` (or another port if 3000 is occupied).
+
+## Code Improvement for Real-World Scenarios
+
+-Add Paginator to improve usability and limit amount of data displayed in a page.
+
+-Add a Dropdown to display category list instead of tabs
+
 
 ## Usage
 - Click on a category to fetch and display jokes related to that category.
